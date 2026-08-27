@@ -1,0 +1,45 @@
+DRIVE READY 8.0
+ML: ML TERMENOLOGY
+DL : KNN, SVM, ANN, BACKPROPODATION, CNN, RNN,LSTM, TRANSFER LEARNING, NLP, OPENCV, LLM, recommendation engine
+POWER BI : LR,LOGISTIC R, NB, BAGGING, BOOSTING, K MEANS,
+PAYTHON : PANDAS, NUMPY, SKLEARN, MATPLOTLIB,TENSORFLOW,KERAS
+
+
+DATA IS SYLLUBUS And brain is machine learning
+DATA IS SYLLUBUS And brain is deep learning
+
+
+supervised learning --> classification, regression
+unsupervised learning --> clustering
+
+knn, dt, rf, svm for both classification and regression
+mb, logistic regression -> classification
+
+logistic regression -> regression
+
+kNN Algorithm means --> K nearest neighbour for this we use the formula of distance
+
+knn regression averages
+knn classification voting
+
+averages
+_______________________________________
+|(x2 - x1)2 + (y2 - y1)2 + (z2 - z1)2
+
+mikeside                      |x1 - x2|
+evident
+multiatom
+hamming
+cosine similarity
+Jaccard
+lavishing
+mb, logistic regression -> classification
+
+
+Data Type
+data collection --> data understanding --> data visualization  --> data preprocessing --> model building --> model revelation --> result prediction 
+
+
+Linear regression 
+
+
